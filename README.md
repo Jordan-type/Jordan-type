@@ -1,6 +1,6 @@
 ### Hi there, I'm Jordan - aka [Jordan-type] 👋
 
-## I'm a Husband, Father, Developer, and Teacher!
+## I'm a Thinker, Developer!
 - 🔭 I’m currently working on a!
 - 🌱 I’m currently learning Flask Api and ReactJS
 - 👯 I’m looking to collaborate with other content creators
