@@ -2,6 +2,18 @@
 
 ### Hi there, I'm Jordan - aka [Jordan-type](https://jordanmuthemba-com.vercel.app/) 👋
 
+<a href="https://www.linkedin.com/in/jordan-muthemba/">
+  <img align="left" alt="Jordan's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.instagram.com/jordan_type/">
+  <img align="left" alt="Jordan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://www.facebook.com/jordantypeizo.type/">
+  <img align="left" alt="Jordan's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
+
+<br />
+
 ## I'm a Thinker, Developer!
 
 - 🔭 I’m currently working on a!
@@ -10,6 +22,7 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw
 
+---
 ### Tech & Tools Preference
 
 ---
