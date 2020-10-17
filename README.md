@@ -11,3 +11,11 @@
 - ⚡ Fun fact: I love to draw
 
 ### Tech & Tools Preference
+
+---
+### Checkout my blogs :loudspeaker:
+<p align="left">
+[![Blog Cards](http://blog.thelightideas.co.ke/)](https://medium.com/@Souravdey777)
+</p>
+
+[Add my Blog Cards](http://blog.thelightideas.co.ke/)
