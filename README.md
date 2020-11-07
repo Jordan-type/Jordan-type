@@ -11,6 +11,9 @@
 <a href="https://www.facebook.com/jordantypeizo.type/">
   <img align="left" alt="Jordan's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
+<a href="https://twitter.com/type_jordan/">
+  <img align="left" alt="Jordan's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
 
 <br />
 
