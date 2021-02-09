@@ -19,7 +19,7 @@
 
 ## I'm a Thinker, Developer!
 
-- 🔭 I’m currently working on Citizen!
+- 🔭 I’m currently working on citizenDapp!
 - 🌱 I’m currently learning Flask APIs, ReactJS and Native
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
