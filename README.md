@@ -1,6 +1,7 @@
+<img align="left" src="https://user-images.githubusercontent.com/22797857/90096358-dba16400-dd54-11ea-8e44-e181ada72661.gif" width="40%" />
+
 ### Hi there, I'm Jordan - aka [Jordan-type](https://jordanmuthemba-com.vercel.app/) 👋
 
-<p align="center">
 <a href="https://www.linkedin.com/in/jordan-muthemba/">
   <img align="left" alt="Jordan's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -13,10 +14,9 @@
 <a href="https://twitter.com/type_jordan/">
   <img align="left" alt="Jordan's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-</p>
 
-<p align="center" >
-<img src="https://user-images.githubusercontent.com/22797857/90096358-dba16400-dd54-11ea-8e44-e181ada72661.gif" width="40%"/></p>
+
+
 
 <br/>
 
@@ -33,7 +33,7 @@
 <img src="https://emojis.slackmojis.com/emojis/images/1471045852/841/hero.gif?1471045852" align="center" width="28" />
 
 ### My Github Statistics 
-<p align="left">
+<p align="center">
 <img alt="Jordan-type's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Jordan-type&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
 <img src = "https://github-readme-streak-stats.herokuapp.com/?user=Jordan-type&">
 </p>
