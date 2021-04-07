@@ -1,4 +1,4 @@
-<img align="left" src="https://user-images.githubusercontent.com/22797857/90096358-dba16400-dd54-11ea-8e44-e181ada72661.gif" width="40%" />
+<img align="right" src="https://user-images.githubusercontent.com/22797857/90096358-dba16400-dd54-11ea-8e44-e181ada72661.gif" width="40%" />
 
 ### Hi there, I'm Jordan - aka [Jordan-type](https://jordanmuthemba-com.vercel.app/) 👋
 
