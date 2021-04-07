@@ -15,9 +15,6 @@
   <img align="left" alt="Jordan's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 
-
-
-
 <br/>
 
 ## I'm a Thinker, Developer!
@@ -27,7 +24,7 @@
 - 👯 I’m looking to collaborate with other coders creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to write and Draw/Travel
-- 💬 Ask me about Blockchain, Back-end Development.
+- 💬 Ask me about Blockchain, Back-end Development.Any tech-related stuff.
 
 ---
 <img src="https://emojis.slackmojis.com/emojis/images/1471045852/841/hero.gif?1471045852" align="center" width="28" />
