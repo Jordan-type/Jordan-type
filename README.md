@@ -1,5 +1,3 @@
-<img align="right" alt="Jordan-type's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Jordan-type&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
-
 ### Hi there, I'm Jordan - aka [Jordan-type](https://jordanmuthemba-com.vercel.app/) 👋
 
 <a href="https://www.linkedin.com/in/jordan-muthemba/">
@@ -29,6 +27,8 @@
 ---
 ### My Github Statistics 
 <p align=center>
+<img alt="Jordan-type's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Jordan-type&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
+<img src = "https://github-readme-streak-stats.herokuapp.com/?user=Jordan-type&">
 </p>
 
 ---
@@ -36,7 +36,7 @@
 
 ### Tech & Tools Preference
 
-<div align="center">  
+<div align="left">  
 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" />  
@@ -60,8 +60,3 @@
 
 ---
 ### Checkout my blogs :loudspeaker:
-<p align="left">
-[![Blog Cards](http://blog.thelightideas.co.ke/)]
-</p>
-
-[Add my Blog Cards](http://blog.thelightideas.co.ke/)
