@@ -32,9 +32,9 @@
 <img src="https://emojis.slackmojis.com/emojis/images/1471045852/841/hero.gif?1471045852" align="center" width="28" />
 
 ### My Github Statistics 
-<p align ="center">
-<img alt="Jordan-type's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Jordan-type&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
-<img src = "https://github-readme-streak-stats.herokuapp.com/?user=Jordan-type&">
+<p>
+<img align="left"  alt="Jordan-type's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Jordan-type&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
+<img align="right" src = "https://github-readme-streak-stats.herokuapp.com/?user=Jordan-type&">
 </p>
 
 ---
