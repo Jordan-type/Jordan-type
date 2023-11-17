@@ -2,29 +2,31 @@
 
 ### Hi there, I'm Jordan - aka [Jordan-type](https://jordanmuthemba-com.vercel.app/) 👋
 
+## Let's Connect! 
+
 <a href="https://www.linkedin.com/in/jordan-muthemba/">
-  <img align="left" alt="Jordan's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="LinkdeIn | Jordan" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/jordan_type/">
-  <img align="left" alt="Jordan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Instagram | Jordan" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://www.facebook.com/jordantypeizo.type/">
-  <img align="left" alt="Jordan's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+  <img align="left" alt="Facebook | Jordan" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <a href="https://twitter.com/type_jordan/">
-  <img align="left" alt="Jordan's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Twitter | Jordan" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 
-<br/>
+<br/><br/>
 
 ## I'm a Thinker, Developer!
 
-- 🔭 I’m currently working on some secret stuff!
-- 🌱 I’m currently learning Flask APIs, ReactJS and Native
-- 👯 I’m looking to collaborate with other coders creators
-- 🥅 2024 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to write and Draw/Travel
-- 💬 Ask me about Blockchain and back-end Development. Any tech-related stuff.
+- 🔭 Current Project: I’m currently working on top-secret, ground-breaking stuff!
+- 🌱 Learning: I’m currently diving deep into Solidity, RestFul APIs, Python, ReactJS and React Native.
+- 👯 Collaboration: I’m eager to collaborate with other coders, developers and creators.
+- 🥅 2024 Goals: Boost my contributions to Open Source projects and communities.
+- ⚡ Fun fact: Passionate about writing, Drawing and travelling
+- 💬 Ask me about: Blockchain, Back-end Development, and anything tech-related stuff!
 
 ---
 <img src="https://emojis.slackmojis.com/emojis/images/1471045852/841/hero.gif?1471045852" align="center" width="28" />
@@ -38,7 +40,7 @@
 ---
 <img src="https://emojis.slackmojis.com/emojis/images/1471045839/793/computerrage.gif?1471045839" align="center" width="28" />
 
-### Tech & Tools Preference
+### Tech & Tools Preference!
 
 <div align="left">  
 
