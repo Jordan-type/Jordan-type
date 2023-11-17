@@ -32,8 +32,8 @@
 <img src="https://emojis.slackmojis.com/emojis/images/1471045852/841/hero.gif?1471045852" align="center" width="28" />
 
 ### My GitHub Statistics!
-<p>
- <img align=""  alt="Jordan-type's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Jordan-type&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
+<div align="center">
+ <img align=""  alt="Jordan-type's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Jordan-type&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" height="150" />
  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jordan-type&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
  <img align="" src = "https://github-readme-streak-stats.herokuapp.com/?user=Jordan-type&">
 </p>
