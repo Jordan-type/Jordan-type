@@ -5,16 +5,16 @@
 ## Let's Connect! 
 
 <a href="https://www.linkedin.com/in/jordan-muthemba/">
-  <img align="left" alt="LinkdeIn | Jordan" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<img align="left" alt="LinkedIn | Jordan" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="color: #0A66C2;"/>
 </a>
 <a href="https://www.instagram.com/jordan_type/">
-  <img align="left" alt="Instagram | Jordan" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<img align="left" alt="Instagram | Jordan" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" style="color: #E4405F;"/>
 </a>
 <a href="https://www.facebook.com/jordantypeizo.type/">
-  <img align="left" alt="Facebook | Jordan" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+<img align="left" alt="Facebook | Jordan" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" style="color: #4267B2;"/>
 </a>
 <a href="https://twitter.com/type_jordan/">
-  <img align="left" alt="Twitter | Jordan" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<img align="left" alt="Twitter | Jordan" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" style="color: #1DA1F2;"/>
 </a>
 
 <br/><br/>
