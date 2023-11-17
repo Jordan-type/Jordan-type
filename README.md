@@ -33,9 +33,9 @@
 
 ### My GitHub Statistics!
 <div align="center">
- <img align=""  src="https://github-readme-stats.vercel.app/api?username=Jordan-type&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" height="150" alt="contribution graph" />
- <img align=""  src="https://github-readme-stats.vercel.app/api/top-langs?username=Jordan-type&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
- <img align=""  src = "https://github-readme-streak-stats.herokuapp.com/?user=Jordan-type&" height="150" alt="streak graph" />
+ <img align=""  src="https://github-readme-stats.vercel.app/api?username=Jordan-type&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" height="110" alt="contribution graph" />
+ <img align=""  src="https://github-readme-stats.vercel.app/api/top-langs?username=Jordan-type&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="110" alt="languages graph"  />
+ <img align=""  src = "https://github-readme-streak-stats.herokuapp.com/?user=Jordan-type&" height="110" alt="streak graph" />
 </p>
 <!-- Clearfix to ensure the next section does not overlap -->
 <div style="clear: both;"></div>
