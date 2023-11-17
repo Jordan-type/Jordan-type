@@ -33,8 +33,8 @@
 
 ### My GitHub Statistics!
 <p>
-<img align="left"  alt="Jordan-type's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Jordan-type&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
-<img align="right" src = "https://github-readme-streak-stats.herokuapp.com/?user=Jordan-type&">
+<img align=""  alt="Jordan-type's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Jordan-type&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
+<img align="" src = "https://github-readme-streak-stats.herokuapp.com/?user=Jordan-type&">
 </p>
 <!-- Clearfix to ensure the next section does not overlap -->
 <div style="clear: both;"></div>
