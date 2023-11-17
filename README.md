@@ -37,6 +37,7 @@
 <img align="right" src = "https://github-readme-streak-stats.herokuapp.com/?user=Jordan-type&">
 </p>
 
+<br/><br/>
 ---
 <img src="https://emojis.slackmojis.com/emojis/images/1471045839/793/computerrage.gif?1471045839" align="center" width="28" />
 
