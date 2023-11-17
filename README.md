@@ -22,9 +22,9 @@
 - 🔭 I’m currently working on some secret stuff!
 - 🌱 I’m currently learning Flask APIs, ReactJS and Native
 - 👯 I’m looking to collaborate with other coders creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2024 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to write and Draw/Travel
-- 💬 Ask me about Blockchain, Back-end Development.Any tech-related stuff.
+- 💬 Ask me about Blockchain and back-end Development. Any tech-related stuff.
 
 ---
 <img src="https://emojis.slackmojis.com/emojis/images/1471045852/841/hero.gif?1471045852" align="center" width="28" />
