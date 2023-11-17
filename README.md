@@ -33,8 +33,9 @@
 
 ### My GitHub Statistics!
 <p>
-<img align=""  alt="Jordan-type's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Jordan-type&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
-<img align="" src = "https://github-readme-streak-stats.herokuapp.com/?user=Jordan-type&">
+ <img align=""  alt="Jordan-type's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Jordan-type&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
+ <img align="" src="https://github-readme-stats.vercel.app/api/top-langs?Jordan-type=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+ <img align="" src = "https://github-readme-streak-stats.herokuapp.com/?user=Jordan-type&">
 </p>
 <!-- Clearfix to ensure the next section does not overlap -->
 <div style="clear: both;"></div>
