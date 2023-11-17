@@ -38,6 +38,8 @@
 </p>
 
 ---
+
+<br/><br/>
 <img src="https://emojis.slackmojis.com/emojis/images/1471045839/793/computerrage.gif?1471045839" align="center" width="28" />
 
 ### Tech & Tools Preference!
