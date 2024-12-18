@@ -1,6 +1,6 @@
 <img align="right" src="https://user-images.githubusercontent.com/22797857/90096358-dba16400-dd54-11ea-8e44-e181ada72661.gif" width="30%" />
 
-### Hi there, I'm Jordan - aka [Jordan-type](https://jordanmuthemba-com.vercel.app/) 👋
+### Hi there, I'm Jordan Muthemba - aka [Jordan Type](https://jordanmuthemba-com.vercel.app/) 👋
 
 ## Let's Connect! 
 
